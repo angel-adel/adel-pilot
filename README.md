@@ -87,7 +87,7 @@
 ## 🚀 Установка
 
 ### Для пользователей
-1. Скачай архив `AdelPilot.zip` из раздела [Releases](../../releases)
+1. Скачай архив `AdelPilot.zip` из раздела [Releases]([../../releases](https://github.com/angel-adel/programms/releases/download/0.001/AdelPilot.zip))
 2. Распакуй в любое удобное место (например, `C:\Tools\AdelPilot\`)
 3. Запусти `AdelPilot.exe`
 4. При первом запуске программа проиндексирует файлы (1-2 минуты)
