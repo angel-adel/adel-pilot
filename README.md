@@ -59,7 +59,7 @@
 ## 📸 Скриншоты
 
 <p align="center">
-  <img src="[assets/screenshot.jfif](https://raw.githubusercontent.com/angel-adel/adel-pilot/refs/heads/main/assets/interface.jfif)" alt="Интерфейс Ádel Pilot" width="800">
+  <img src="https://raw.githubusercontent.com/angel-adel/adel-pilot/refs/heads/main/assets/interface.png" alt="Интерфейс Ádel Pilot" width="800">
 </p>
 
 ---
