@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/UI-PySide6-green?style=for-the-badge&logo=qt" alt="PySide6">
   <img src="https://img.shields.io/badge/LLM-Qwen2.5--1.5B-purple?style=for-the-badge" alt="LLM">
   <img src="https://img.shields.io/badge/platform-Windows-orange?style=for-the-badge&logo=windows" alt="Platform">
-  <img src="https://img.shields.io/badge/license-MIT-red?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/license-By_Agreement-red?style=for-the-badge" alt="License">
 </p>
 
 <p align="center">
@@ -56,6 +56,14 @@
 
 ---
 
+## 📸 Скриншоты
+
+<p align="center">
+  <img src="assets/screenshot.png" alt="Интерфейс Ádel Pilot" width="800">
+</p>
+
+---
+
 ## 🧠 О модели ИИ
 
 В Ádel Pilot используется **Qwen2.5-1.5B-Instruct** в квантовании `Q4_K_M`:
@@ -86,7 +94,7 @@
 
 ### Для разработчиков
 ```bash
-git clone https://github.com/your-username/adel-pilot.git
+git clone https://github.com/angel-adel/adel-pilot.git
 cd adel-pilot
 pip install -r requirements.txt
 python icons.py          # генерация иконок
